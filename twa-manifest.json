@@ -1,0 +1,18 @@
+{
+    "version": "1.0.0",
+    "name": "RAP Token Presale",
+    "short_name": "RAP Presale",
+    "description": "Official RAP Token Presale Mini App",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0A0A0A",
+    "theme_color": "#9DF518",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "$RAPc(logo).png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

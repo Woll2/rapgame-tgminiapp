@@ -1,0 +1,14 @@
+{
+    "url": "https://rapgamecorporation.github.io/presale/",
+    "name": "RAP Token Presale",
+    "iconUrl": "https://rapgamecorporation.github.io/presale/icon.svg",
+    "termsOfUseUrl": "https://rapgamecorporation.github.io/presale/terms.html",
+    "privacyPolicyUrl": "https://rapgamecorporation.github.io/presale/privacy.html",
+    "manifest_version": 2,
+    "items": [
+        {
+            "name": "ton_addr",
+            "description": "Connect your TON wallet"
+        }
+    ]
+}
